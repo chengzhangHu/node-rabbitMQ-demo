@@ -2,6 +2,7 @@
 demo for RabbitMQ with nodejs 
 
 ### tree
+````
 ├── LICENSE
 ├── README.md
 ├── callBack  # call by callback 
@@ -12,3 +13,4 @@ demo for RabbitMQ with nodejs
 ├── promise  # call rabbmitmq by promise 
 │   ├── consume.js
 │   └── publish.js
+````
